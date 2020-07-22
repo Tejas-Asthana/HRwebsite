@@ -1,0 +1,16 @@
+html{
+  background: linear-gradient(to bottom, rgb(240, 242, 240), rgb(0, 12, 64));
+  min-height: 100%;
+  position: relative;
+
+}
+
+div.all {
+  max-width: 800px;
+  padding: 20px;
+  margin: auto;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+  border-radius: 10px;
+}

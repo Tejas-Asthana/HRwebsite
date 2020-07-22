@@ -1,0 +1,12 @@
+html{
+  /* background: linear-gradient(to bottom, rgb(240, 242, 240), rgb(0, 12, 64));
+  background-size: cover; */
+}
+
+.container {
+  width: 800px;
+  margin: 1% auto;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #fff;
+}
